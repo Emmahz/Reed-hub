@@ -5,13 +5,13 @@ const Sec1 =() => {
         <div className='flex lg:flex-row flex-col justify-center gap-[4.4rem] items-center w-screen'>
 
     <div class=''>
-    <p className='text-[#35caaa83] font-extrabold text-center text-xl mr-[26rem]'>Our Vision</p>
-    <p className='text-[#E3FFCC] lg:text-left text-center lg:leading-[3rem] leading-10'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis <br />
-        ipsum quae tenetur totam exercitationem quam architecto nulla <br />
-        sapiente assumenda cum. Laborum culpa quidem tempore eius veniam <br />
-        libero adipisci molestias quisconsequatur modi? Est, a magnam? Non,<br />
-        ratione praesentium voluptatibus laudantium ipsa, mollitia,<br />
+    <p className='text-[#35caaa83] font-extrabold text-center lg:text-[25px]   lg:mr-[26rem]'>Our Vision</p>
+    <p className='text-[#E3FFCC] lg:text-left text-center lg:px-0 px-[10px]  lg:leading-[3rem] '>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis <br className="lg:block hidden"  />
+        ipsum quae tenetur totam exercitationem quam architecto nulla <br className="lg:block hidden"  />
+        sapiente assumenda cum. Laborum culpa quidem tempore eius veniam <br className="lg:block hidden"  />
+        libero adipisci molestias quisconsequatur modi? Est, a magnam? Non,<br className="lg:block hidden"  />
+        ratione praesentium voluptatibus laudantium ipsa, mollitia,<br className="lg:block hidden"  />
         illo dolores iure nemo in aspernatur aliquam dignissimos.
     </p>
 </div>
