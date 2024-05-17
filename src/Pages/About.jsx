@@ -1,4 +1,5 @@
 import React from 'react'
+<<<<<<< Updated upstream
 
 const  About = () => {
   return (
@@ -56,9 +57,26 @@ items-center space-x-20 relative -mt-8'>
         <img class='w-[80%] lg:max-w-[60%]' src="src\assets\images\about-3.png" />
     </div>
 </div>
+=======
+import Sec1 from './About/Sec1'
+import Sec2 from './About/Sec2'
+import Sec3 from './About/Sec3'
+
+const  About = () => {
+  return (
+    <div className='bg-[#0B373C] flex flex-col items-center overflow-x-hidden'>
+ 
+    <Sec1/>
+    <Sec2/>
+    <Sec3/>
+>>>>>>> Stashed changes
 </div>
     
   )
 }
 
+<<<<<<< Updated upstream
 export default About
+=======
+export default About
+>>>>>>> Stashed changes
