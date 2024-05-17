@@ -19,6 +19,7 @@ const Nav = () => {
     const navLinkStyle = ({ isActive }) => {
         return {
             color: isActive ? '#1AA47B' : '',
+            
         };
     };
 

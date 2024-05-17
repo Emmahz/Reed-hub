@@ -31,4 +31,20 @@
 
 
 
+ .slidder{
+  background-image: url(./assets/images/service-4.png);
+  background-repeat: no-repeat;
+ }
+
+ .opac{
+  background: transparent;
+  background-color: rgba(225, 225, 225, 0.3);
+  backdrop-filter: blur(2px);
+  box-shadow: 0 0 2px rgba(255, 255, 255, 0.5);
  
+ }
+
+
+ .form{
+  background-color: rgba(11,55,60,0.3);
+ }
