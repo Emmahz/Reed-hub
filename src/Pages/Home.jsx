@@ -1,16 +1,3 @@
-<<<<<<< Updated upstream
-import React from 'react'
-
-function Home() {
-  return (
-    <div>
-      man
-    </div>
-  )
-}
-
-export default Home
-=======
 // import Nav from "../Components/nav"
 import Home1 from '../assets/images/home-1 copy.png'
 import Home2 from '../assets/images/home-2 copy.png'
@@ -135,4 +122,3 @@ const Home = () => {
         </>
     )}
 export default Home
->>>>>>> Stashed changes
