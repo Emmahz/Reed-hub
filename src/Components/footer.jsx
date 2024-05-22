@@ -1,14 +1,14 @@
 import { Link } from "react-router-dom";
-import Logo from '../assets/images/logo.png'
+import Logo from '../assets/images/logo-2.png'
 
 
 const Footer = () => {
     return (
         <div >
-            <div className="flex  flex-col-reverse lg:py-[120px]  lg:gap-[8rem]  lg:flex-row  bg-textcolor w-full  items-center  justify-center">
+            <div className="flex  flex-col-reverse lg:py-[120px] py-[1.5rem] lg:gap-[8rem] text-primary  lg:flex-row  bg-custom w-full  items-center  justify-center">
                 <div className="flex px-[20%] items-center lg:text-start text-center  flex-col-reverse lg:flex-row  lg:justify-between w-full lg:items-start ">
                     <div className="mb-[15px]">
-                        <h2 className="lg:mb-5 mb-4 font-semibold">platform</h2>
+                        <h2 className="lg:mb-5 mb-4 font-bold">platform</h2>
 
                         <ul>
                             <li>
@@ -33,7 +33,7 @@ const Footer = () => {
                     </div>
 
                     <div className="mb-[15px]">
-                        <h2 className="lg:mb-5 mb-4 font-semibold">resources</h2>
+                        <h2 className="lg:mb-5 mb-4 font-bold">resources</h2>
 
                         <ul>
                             <li>
@@ -61,7 +61,7 @@ const Footer = () => {
                     </div>
 
                     <div className="mb-[15px]">
-                        <h2 className="lg:mb-5 mb-4 font-semibold">company</h2>
+                        <h2 className="lg:mb-5 mb-4 font-bold">company</h2>
 
                         <ul>
 
@@ -86,14 +86,16 @@ const Footer = () => {
                         </ul>
                     </div>
 
-                    <div className=" ml-9 lg:-mr-[90px] ">
-                        <img src={Logo} alt="" />
+                    <div className=" ml-9 pb-[1rem] lg:-mr-[90px] ">
+                        {/* <img src={Logo} alt="" /> */}
+                        <h1 className=' font-bold  lg:text-[2rem] text-textcolor'>eHub</h1>
+
                     </div>
                 </div>
 
 
             </div>
-            <div className="bg-custom h-[273px]">jj</div>
+            <div className="bg-underfoot h-[273px]">jj</div>
 
         </div>
     );

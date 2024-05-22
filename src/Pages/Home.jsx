@@ -1,4 +1,4 @@
-// import Nav from "../Components/nav"
+
 import Home1 from '../assets/images/home-1 copy.png'
 import Home2 from '../assets/images/home-2 copy.png'
 import Home3 from '../assets/images/home-5 copy.png'
