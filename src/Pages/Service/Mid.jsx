@@ -14,7 +14,7 @@ const Mid = () => {
 
                  <span className=' bg-gradient-to-r from-textcolor  via-linear2 text-transparent bg-clip-text '> Great Results</span></h1>
 
-                <p className='text-primary lg:text-[25px]'> Lorem ipsum dolor sit amet consectetur. In magna donec
+                <p className='text-primary lg:text-[20px]'> Lorem ipsum dolor sit amet consectetur. In magna donec
                      tortor tortor egestas et enim semper. Curabitur nisi 
                      neque et convallis tristique posuere. Ut lectus orci 
                      dictum ut in enim scelerisque sagittis vivamus. Nunc 

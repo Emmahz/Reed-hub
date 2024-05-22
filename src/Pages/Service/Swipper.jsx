@@ -29,16 +29,16 @@ const Swipper =() => {
         Brand Identity for a Furniture
 Company
         </h1>
-<p className='lg:text-[25px] lg:text-start text-center  lg:leading-[40px]'>
-    <q className='lg:text-[25px]'>
+<p className='lg:text-[20px] lg:text-start text-center  lg:leading-[35px]'>
+    <q className='lg:text-[20px]'>
     Lorem ipsum dolor sit amet consectetur.
      In magna donec tortor tortor egestas et enim semper. .
      Ut lectus orci dictum ut in enim scelerisque sagittis vivamus.
     </q>
 </p>
 
-<p className='lg:text-[25px] lg:mt-[50px] lg:text-start  text-center text-primary'>
-    <span className='font-bold lg:text-[30px]'>Ayomide Jacob</span> <br />
+<p className='lg:text-[20px] lg:mt-[50px] lg:text-start  text-center text-primary'>
+    <span className='font-bold lg:text-[25px]'>Ayomide Jacob</span> <br />
     CEO, L.Dano & Co
 </p>
 

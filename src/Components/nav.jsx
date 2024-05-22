@@ -29,7 +29,7 @@ const Nav = () => {
             : "fixed right-[-100%] transition-all duration-300 ease-in-out"} `}>
            
 
-            <div className='text-center flex flex-col justify-start items-end gap-[25px]'>
+            <div className='text-center flex  flex-col justify-start items-end gap-[25px]'>
                 
                     <Link onClick={toggleMenu}  to={'/'} className='w-full'>
                         <p className=''>Explore</p>

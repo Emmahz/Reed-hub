@@ -12,7 +12,7 @@ const Herosec = () =>{
         of course we provide <br className='hidden lg:block' />
         <span className='text-custom underline'>Premium services</span> </h1>
 
-        <p className=' text-[19px] lg:leading-[47px] mt-4 mb-4 lg:text-[25px]'>
+        <p className='  lg:leading-[40px] mt-4 mb-4 lg:text-[20px]'>
             Lorem ipsum dolor sit amet consectetur in <br className='hidden lg:block' /> adipisicing elit.
              Doloremque minus distinc <br className='hidden lg:block' /> fugiat debitis!
         </p>

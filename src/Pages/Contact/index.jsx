@@ -1,12 +1,12 @@
 export const Contact = () =>{
     return(
  
-        <div className="bg-custom flex justify-center items-center py-[20px] lg:pt-[80px] ">
-            <div className="lg:w-[1337px]  flex flex-col gap-0">
-            <div className=" bg-textcolor lg:rounded-none rounded-[10px] lg:py-[102px] lg:px-[104px] lg:h[729px] flex lg:flex-row flex-col ">
+        <div className="bg-custom flex justify-center items-center py-[20px] lg:pt-[40px] ">
+            <div className="lg:w-[1337px]   flex flex-col gap-0">
+            <div className=" bg-textcolor lg:mx-[100px]  lg:rounded-none rounded-[10px] lg:py-[102px] lg:px-[95px] lg:h[700px] flex lg:flex-row flex-col ">
                 <div className="text-custom lg:text-left text-center">
-                    <h1 className="font-semibold lg:text-[45px]">Contacts Us</h1>
-                    <p className="lg:text-[35px] lg:p-0 px-4">Lorem ipsum dolor sit amet consectetur.</p>
+                    <h1 className="font-semibold lg:text-[40px]">Contacts Us</h1>
+                    <p className="lg:text-[25px] lg:p-0 px-4">Lorem ipsum dolor sit amet consectetur.</p>
                 </div>
             <form className="lg:w-[512px] flex flex-col gap-3 lg:gap-0 lg:px-[34px] mx-auto p-4 lg:py-[30px] lg:bg-primary lg:h-[419px] lg:shadow-lg text-custom font-semibold lg:text-[18px]" action="">
                 <fieldset className="flex gap-3  lg:flex-row flex-col lg:gap-10">
@@ -35,7 +35,7 @@ export const Contact = () =>{
 
             </form>
             </div>
-            <div className="bg-primary lg:h-[80px]">
+            <div className="bg-primary lg:mx-[100px] lg:h-[50px]">
 
             </div>
             </div>
