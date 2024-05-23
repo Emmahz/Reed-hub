@@ -9,7 +9,7 @@ const Mid = () => {
                 <img src={img3} alt="" />
             </div>
 
-            <div  className='lg:w-[50%] p-[30px] text-center flex flex-col gap-6'>
+            <div  className='lg:w-[60%] p-[30px] text-center flex flex-col gap-6'>
                 <h1 className='text-white font-semibold lg:text-[45px]'>A Track Record of 
 
                  <span className=' bg-gradient-to-r from-textcolor  via-linear2 text-transparent bg-clip-text '> Great Results</span></h1>

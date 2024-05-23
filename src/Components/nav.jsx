@@ -52,12 +52,13 @@ const Nav = () => {
       
 
       <div className='flex w-full  justify-between items-center'>
-      <div className='flex justify-between w-full lg:justify-start items-center gap-20'>
+      <div className='flex justify-between w-full text-end lg:justify-start items-center gap-20'>
       <Link to='/' onClick={() => {
             window.scroll(0, 0);
         }} >
             <div className='  '>
-                <img src={logo} alt="" className='w-[70%]  lg:w-[100%]' />
+                {/* <img src={logo} alt="" className='w-[70%]  lg:w-[100%]' /> */}
+                <h1 className=' font-bold  lg:text-[2rem] text-custom'>eHub</h1>
             </div>
         </Link> 
 

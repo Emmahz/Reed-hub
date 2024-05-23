@@ -6,7 +6,7 @@ const Sec3 = () => {
     <div >
         
     <p className='text-[#35caaa83] font-extrabold text-center text-xl lg:mr-[26rem]'>Our Process</p>
-        <p className='text-[#E3FFCC] lg:text-left lg:px-0 px-[10px] text-center lg:leading-[4rem] '>
+        <p className='text-[#E3FFCC] lg:text-left lg:px-0 px-[10px] text-center lg:leading-[2rem] '>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis <br className="lg:block hidden" />
             ipsum quae tenetur totam exercitationem quam architecto nulla <br className="lg:block hidden" />
             sapiente assumenda cum. Laborum culpa quidem tempore eius veniam <br className="lg:block hidden" />

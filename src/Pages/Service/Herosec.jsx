@@ -6,7 +6,7 @@ import img5 from '../../assets/images/service-5.png'
 
 const Herosec = () =>{
     return(
-<div className='flex flex-col lg:flex-row lg:px-[5rem] px-[2rem] py-5 lg:py-[7rem] lg:overflow-hidden bg-mint text-primary justify-between '>
+<div className='flex flex-col lg:flex-row lg:px-[5rem] px-[2rem] py-5 lg:py-[7rem] overflow-x-hidden bg-mint text-primary justify-between '>
     <div>
         <h1  className='font-bold lg:leading-[74px] text-[35px] lg:text-[70px]'>We are creatives, <br  className='hidden lg:block'/> 
         of course we provide <br className='hidden lg:block' />
