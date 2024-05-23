@@ -14,7 +14,7 @@ const Sec2 =() => {
             illo dolores iure nemo in aspernatur aliquam dignissimos.
         </p>
     </div>
-        <img class='lg:w-[40%] w-[90%]' src="src\assets\images\about-2.png" />
+        <img class='lg:w-[40%] w-[90%]' src="src\assets\images\about-2 copy.png" />
 </div>
         </>
     )
