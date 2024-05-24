@@ -88,7 +88,7 @@ const Footer = () => {
 
                     <div className=" ml-9 pb-[1rem] lg:-mr-[90px] ">
                         {/* <img src={Logo} alt="" /> */}
-                        <h1 className=' font-bold  lg:text-[2rem] text-textcolor'>eHub</h1>
+                        <h1 className=' font-bold  lg:text-[2rem] text-textcolor  '>eHub</h1>
 
                     </div>
                 </div>
