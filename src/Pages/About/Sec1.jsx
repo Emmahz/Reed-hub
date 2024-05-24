@@ -1,3 +1,6 @@
+import about1 from "../../assets/images/about-1 copy.png"
+
+
 const Sec1 =() => {
     return (
         <>
@@ -15,7 +18,7 @@ const Sec1 =() => {
         illo dolores iure nemo in aspernatur aliquam dignissimos.
     </p>
 </div>
-    <img class='lg:w-[40%] w-[90%] lg:max-w-[40%]' src="src\assets\images\about-1 copy.png" />
+    <img className='lg:w-[40%] w-[90%] lg:max-w-[40%]' src={about1} />
 </div>
         </>
     )
